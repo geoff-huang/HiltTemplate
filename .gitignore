@@ -1,0 +1,33 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Gradle
+.gradle
+build
+build-cache
+generated
+
+# Kotlin
+.kotlin
+
+# Mkdocs files
+docs/1.x
+docs/changelog.md
+docs/index.md
+site/
+
+# idk
+/.idea/*
